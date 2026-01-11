@@ -1,0 +1,20 @@
+## 📄 Dataset Notice
+
+The dataset used in this project is **not included** in the repository due to **unknown license terms**.
+
+This project is intended for **educational and learning purposes only**.
+Please obtain the dataset from its original source before running the notebook.
+
+
+### Dataset Features
+- Company
+- TypeName
+- Inches
+- ScreenResolution
+- Cpu
+- Ram
+- Memory
+- Gpu
+- OpSys
+- Weight
+- Price
